@@ -1,0 +1,689 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "64760637": {
+        "pageid": 64760637,
+        "ns": 6,
+        "title": "File:Marina Grande, Sorrento.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4214969,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Marina_Grande%2C_Sorrento.jpg/1920px-Marina_Grande%2C_Sorrento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1920,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Marina_Grande%2C_Sorrento.jpg/3840px-Marina_Grande%2C_Sorrento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Marina_Grande%2C_Sorrento.jpg/1920px-Marina_Grande%2C_Sorrento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1920,
+              "height": 1440,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Marina_Grande%2C_Sorrento.jpg/3840px-Marina_Grande%2C_Sorrento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Marina_Grande%2C_Sorrento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marina_Grande,_Sorrento.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64760637",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-12-12 05:40:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Marina Grande, Sorrento",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Marinas in Italy|Beaches of Campania|Self-published work|Files with coordinates missing SDC location of creation|Marina Grande (Sorrento)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.627970",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "14.367205",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A view of Marina Grande from a walkway underneath the Sant'Anna Institute",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-07-09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Davidhermanns&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Davidhermanns (page does not exist)\">Davidhermanns</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108262669": {
+        "pageid": 108262669,
+        "ns": 6,
+        "title": "File:Ponte Vecchio from Ponte Santa Trinita Blue hour.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13822038,
+            "width": 4908,
+            "height": 3339,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg/1920px-Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1920,
+            "thumbheight": 1306,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg/3840px-Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg/1920px-Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1920,
+              "height": 1306,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg/3840px-Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108262669",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-10-04 19:25:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ponte Vecchio from Ponte Santa Trinita Blue hour",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Water reflections of lights in Italy|Reflections in rivers in Italy|Italy photographs taken on 2021-07-31|July 2021 in Florence|Ponte Vecchio from Ponte Santa Trinita|Buildings during blue hour in Florence",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ponte Vecchio from Ponte Santa Trinita",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-07-31 19:47:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Commonists\" title=\"User:Commonists\">Commonists</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "115765882": {
+        "pageid": 115765882,
+        "ns": 6,
+        "title": "File:Pompeii 2021 - 03.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11050195,
+            "width": 3390,
+            "height": 2260,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pompeii_2021_-_03.jpg/1920px-Pompeii_2021_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1920,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pompeii_2021_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pompeii_2021_-_03.jpg/1920px-Pompeii_2021_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1920,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pompeii_2021_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pompeii_2021_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pompeii_2021_-_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115765882",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-03-04 14:30:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pompeii 2021 - 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Pompeii Regio VII Insula 2|Pompeii Regio VII Insula 12|Self-published work|Images by Marcin Szala|Files with coordinates missing SDC location of creation|Via degli Augustali (Pompeii)|2021 in Pompeii|Sidewalks in Pompeii|Stepping stones in Pompeii",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.750510",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "14.486440",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Via degli Augustali, Pompeii, Italy",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-10-04 13:30:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pudelek\" title=\"User:Pudelek\">Pudelek</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "132224922": {
+        "pageid": 132224922,
+        "ns": 6,
+        "title": "File:Piazza San Pietro by night (52221741019).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13159178,
+            "width": 5970,
+            "height": 3358,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg/1920px-Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1920,
+            "thumbheight": 1080,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg/3840px-Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg/1920px-Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1920,
+              "height": 1080,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg/3840px-Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piazza_San_Pietro_by_night_(52221741019).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132224922",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-23 03:03:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piazza San Pietro by night (52221741019)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vatican obelisk|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Vatican City photographs taken on 2021-10-04|October 2021 in Rome|Files from Radek Kucharski Flickr stream|Saint Peter's Basilica at night|Saint Peter's Square at night|Saint Peter's Basilica by night",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "41.901837",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "12.458024",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vatican",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 4 October 2021, 19:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/137294100@N08/52221741019/\">Piazza San Pietro by night</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/137294100@N08\">Radek Kucharski</a> from Warsaw, Poland",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147445454": {
+        "pageid": 147445454,
+        "ns": 6,
+        "title": "File:Faraglioni (52215154472).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13144876,
+            "width": 4272,
+            "height": 2856,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Faraglioni_%2852215154472%29.jpg/1920px-Faraglioni_%2852215154472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1920,
+            "thumbheight": 1284,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Faraglioni_%2852215154472%29.jpg/3840px-Faraglioni_%2852215154472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Faraglioni_%2852215154472%29.jpg/1920px-Faraglioni_%2852215154472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1920,
+              "height": 1284,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Faraglioni_%2852215154472%29.jpg/3840px-Faraglioni_%2852215154472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Faraglioni_%2852215154472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Faraglioni_(52215154472).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147445454",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-16 19:44:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Faraglioni (52215154472)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Faraglioni (Capri)|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Capri, Italy (2022)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-07-11 12:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/imaffo/52215154472/\">Faraglioni</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/68052816@N00\">Alessio Maffeis</a> from Stockholm, Sweden",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "157269712": {
+        "pageid": 157269712,
+        "ns": 6,
+        "title": "File:Castel dell'Ovo (Naples) 02.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12249038,
+            "width": 4707,
+            "height": 3138,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Castel_dell%27Ovo_%28Naples%29_02.jpg/1920px-Castel_dell%27Ovo_%28Naples%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1920,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Castel_dell%27Ovo_%28Naples%29_02.jpg/3840px-Castel_dell%27Ovo_%28Naples%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Castel_dell%27Ovo_%28Naples%29_02.jpg/1920px-Castel_dell%27Ovo_%28Naples%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1920,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Castel_dell%27Ovo_%28Naples%29_02.jpg/3840px-Castel_dell%27Ovo_%28Naples%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Castel_dell%27Ovo_%28Naples%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castel_dell%27Ovo_(Naples)_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157269712",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-12-29 17:09:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Castel dell'Ovo (Naples) 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Castel dell'Ovo (Naples)|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.828314",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "14.247656",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Castel dell'Ovo, Naples, Italy",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-04-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

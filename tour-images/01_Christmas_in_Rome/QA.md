@@ -1,21 +1,17 @@
-# Current review status — artistic direction sample
+# Current image review
 
-The user rejected the previous synthetic photographic look. The canonical banner now contains a deliberately painterly, symbolic tour composition (version 2), with no panels or inset images. It is a style sample awaiting feedback, not a final approved asset. Rome, Florence and the optional coast share an intentionally fictional landscape; this is artwork, not a geographic viewpoint. Florence remains near the right edge and needs crop refinement if this direction is selected. Daily/highlight files are retained for traceability but marked rejected in the manifest and removed from the main gallery. Those placements still require photographic replacements. No images are currently approved for website publication.
+## Highlights: authentic photographs
 
-## Prior review history
+All six previous AI highlight images have been replaced with real, independently sourced Wikimedia Commons photographs. Each was viewed, matched to its destination and checked for watermarks. The source pages identify the actual landmarks. Credits, source dates, URLs, licenses and original metadata are retained in `highlights/`. No AI generation, retouching, cropping or color grading was used. Wikimedia supplied 1920px versions; conversion to PNG preserves their decoded RGB pixels exactly.
 
-# Rome quality review — incomplete
+St. Peter’s: an illuminated square at night, not a staged Mass. Naples: Castel dell’Ovo waterfront. Pompeii: Via degli Augustali rather than the daily forum composition. Capri: authentic Faraglioni shapes rather than the fabricated AI rock formation. Sorrento: Marina Grande village and harbour. Florence: Ponte Vecchio at blue hour, distinct from the daily cathedral image. Each is a continuous photograph.
 
-All 13 required candidate images were generated, individually inspected and saved as separate PNGs. Three revisions address an invented banner arch, cropped Florence bell tower, and fictional arrival-town scenery. No contact sheets were generated.
+The four southern Italy images remain optional. The source photographs come from different dates and seasons, including summer; they are destination views, not evidence of December conditions, beach activities, boat travel or the actual future tour. Natural harbour boats and signage do not add those activities to the program. Keep the optional captions and link the photo credits when integrating the site.
 
-The files pass decoding and exact-duplicate checks. A coarse dHash comparison flags no near-duplicate candidates at distance 8 or below. This does not certify landmark geometry.
+All 13 PNGs decode. No exact duplicates were found. Coarse dHash candidates, if any, are recorded in `file-validation.json`; this does not prove every possible similarity absent.
 
-The user has now rejected the previous photographic style, including travel-day assets; none is approved. Other images remain drafts pending reference comparison. Capri specifically needs correction: its Faraglioni arrangement/arch is not trustworthy. Basilica facade proportions, dome visibility, colonnade viewpoint, Pompeii ruin layout, Naples waterfront geometry and Florence architectural details require verified photo comparison. Do not automatically deploy these drafts.
+## Still outstanding
 
-St Peter’s repeats because both December 24 and 25 visit it; viewpoints and lighting differ. The Pompeii daily image depicts the forum; its highlight depicts an excavated street. Florence daily depicts Piazza del Duomo; highlight depicts Ponte Vecchio. Optional December 26 assets remain optional in the manifest. No specific 2026 Mass, papal appearance or crowd arrangement is claimed.
+The banner remains a symbolic painterly direction sample awaiting feedback, architectural review and crop refinement. The six daily AI images remain rejected and need replacement. Rome as a whole is not complete; tours 2–25 imagery has not started.
 
-The PDF has no dedicated highlights section. The user approved using explicitly named destinations/attractions: St Peter’s Square, Naples, Pompeii, Capri, Sorrento and Florence. Rome is the umbrella destination, represented by its banner and St Peter’s images; no Colosseum visit was inferred from the reference banner. Distinct city views do not assert additional scheduled attraction visits.
-
-Reference retrieval is blocked by HTTPS CONNECT 403 denials. A network draft adds Wikimedia Commons/upload and Vatican reference domains; it has not been applied or published. Review and save that draft in environment settings, then publish the environment as required by the configuration tool. Recheck actual access before claiming verification. Use Commons license metadata per selected photo; no external photos or license permissions have yet been acquired.
-
-Tour 2 imagery has not started, following the instruction to finish Rome first.
+Commons API and supported thumbnail retrieval now work. Some original-image downloads return HTTP 429 with Retry-After 600, so supported 1920px thumbnails were used. No paid photo service was added.

@@ -8,7 +8,11 @@
 
 [Open the full banner](tour-images/01_Christmas_in_Rome/banner/Rome_Banner.png) · [Creative direction](tour-images/CREATIVE_DIRECTION.md)
 
-The earlier photo-like images were rejected for looking artificially generated. They are retained in [the image folders](tour-images/01_Christmas_in_Rome) for traceability, but are not approved assets. Daily itinerary and highlight photographs belong separately in the program and summary.
+## Improved highlights — real photography
+
+The six highlight images have been replaced with licensed real photographs. [View the highlight gallery](tour-images/01_Christmas_in_Rome/highlights/README.md). They belong separately in the program and summary, with [photo credits](tour-images/01_Christmas_in_Rome/highlights/CREDITS.md). Naples, Pompeii, Capri and Sorrento remain optional. Source photos represent their destinations; capture dates and seasons differ from the future December trip.
+
+The six daily AI images remain rejected and still need replacement.
 
 This sample still needs style feedback, landmark checks and crop refinement; Florence is near the right edge. Optional southern Italy destinations remain optional. No image depicts the actual future Christmas ceremony.
 
