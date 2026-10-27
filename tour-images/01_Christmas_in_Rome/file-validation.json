@@ -1,0 +1,113 @@
+{
+  "image_count": 13,
+  "all_png_readable": true,
+  "exact_duplicates": [],
+  "perceptually_similar_candidates": [],
+  "images": [
+    {
+      "filename": "banner/Rome_Banner.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2706723,
+      "sha256": "2d6c22b69eacebca79fc6afde2931b5717ceebbf55c9671e7b51aac98147fa73",
+      "dhash": 1643980357807761657
+    },
+    {
+      "filename": "daily/Rome_Day01.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2208619,
+      "sha256": "1db93de412b432bca42e8d6adbaa20a131e0c613da8512237996741e034812e4",
+      "dhash": 2749067340114958336
+    },
+    {
+      "filename": "daily/Rome_Day02.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2667581,
+      "sha256": "bb47401daa1d1b5b187537b2b70c2938f0f68aae83400232961a8bd9673d7209",
+      "dhash": 5063835394306901507
+    },
+    {
+      "filename": "daily/Rome_Day03.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2620817,
+      "sha256": "6cd5709629923bbaae0c39034fae9629680697910ef67a2b2d45ec5d0829bc55",
+      "dhash": 5271503419169431037
+    },
+    {
+      "filename": "daily/Rome_Day04.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2931817,
+      "sha256": "e833d1bd6317a08c1b57fa1a847175d369fcef0ac909f6da314c7ce00b5620ff",
+      "dhash": 9548624669663947244
+    },
+    {
+      "filename": "daily/Rome_Day05.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3023887,
+      "sha256": "d24b2d40d8dfe08abaec538baee2b7e26cc92a20caf3e970246a49d80fb7eb8a",
+      "dhash": 7613812030132888736
+    },
+    {
+      "filename": "daily/Rome_Day06.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2304074,
+      "sha256": "df53feb95d79ec69dce3603335a7b486478832bbd3d062a2c0d97680482b6caa",
+      "dhash": 4769630180335730880
+    },
+    {
+      "filename": "highlights/Rome_Highlight01_StPeters.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2919823,
+      "sha256": "7bd42838522efcc2cba975650aabe543320ef578bb1991d880272f9ac4735123",
+      "dhash": 1465451440292378230
+    },
+    {
+      "filename": "highlights/Rome_Highlight02_Naples.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2838599,
+      "sha256": "fa31f4740643e00a322be3e2a399a86e35485e2de3c18ad9c6934c94855f498a",
+      "dhash": 3534221875625593866
+    },
+    {
+      "filename": "highlights/Rome_Highlight03_Pompeii.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3238589,
+      "sha256": "59129e93887099b6abc1ef4a230c2d7135b0273d03830a2511f7280daa99e230",
+      "dhash": 17612442030212243809
+    },
+    {
+      "filename": "highlights/Rome_Highlight04_Capri.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2910950,
+      "sha256": "102687592dd9102a73392ca410dbbdc69582f51dcc265cba1ef30660dea78d80",
+      "dhash": 2821274469495603200
+    },
+    {
+      "filename": "highlights/Rome_Highlight05_Sorrento.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3182326,
+      "sha256": "334642da7252dc34003a5b16b538db2078c903dff4b381e166a0e88cfe76a4f8",
+      "dhash": 729110185672183563
+    },
+    {
+      "filename": "highlights/Rome_Highlight06_Florence.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2795645,
+      "sha256": "0644b2f20fc98a5aeb057d0c1e56afb4bc114c46535c1419e0326a15d2b98ac1",
+      "dhash": 7023281929510420609
+    }
+  ],
+  "limitations": "dHash checks coarse composition only; it does not verify architecture, event authenticity, licensing or all near duplicates."
+}
