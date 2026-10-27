@@ -1,0 +1,288 @@
+[
+  {
+    "source": "banner/Rome_Banner.png",
+    "placement": "tour hero banner",
+    "date": null,
+    "alt_text": "St Peter's Basilica and its square at winter dusk, with the Vatican obelisk, a lit Christmas tree and Bernini's colonnades (AI illustration)",
+    "verdict": "requires_regeneration",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/banner/Rome_Banner-1600.webp",
+        "width": 1600,
+        "height": 800,
+        "bytes": 265190
+      },
+      {
+        "path": "web/banner/Rome_Banner-800.webp",
+        "width": 800,
+        "height": 400,
+        "bytes": 88040
+      }
+    ]
+  },
+  {
+    "source": "daily/Rome_Day01.png",
+    "placement": "itinerary day 1",
+    "date": "2026-12-23",
+    "alt_text": "Travellers with luggage boarding a touring coach at dusk (AI illustration)",
+    "verdict": "requires_regeneration",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/daily/Rome_Day01-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 156202
+      },
+      {
+        "path": "web/daily/Rome_Day01-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 62320
+      }
+    ]
+  },
+  {
+    "source": "daily/Rome_Day02.png",
+    "placement": "itinerary day 2",
+    "date": "2026-12-24",
+    "alt_text": "St Peter's Square at night beside Bernini's colonnade, with the Christmas tree and nativity by the obelisk (AI illustration)",
+    "verdict": "usable_pending_photo_check",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/daily/Rome_Day02-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 230714
+      },
+      {
+        "path": "web/daily/Rome_Day02-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 77396
+      }
+    ]
+  },
+  {
+    "source": "daily/Rome_Day03.png",
+    "placement": "itinerary day 3",
+    "date": "2026-12-25",
+    "alt_text": "St Peter's Basilica on a clear winter morning, red drape on the central balcony, Christmas tree beside the obelisk (AI illustration)",
+    "verdict": "requires_regeneration",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/daily/Rome_Day03-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 201016
+      },
+      {
+        "path": "web/daily/Rome_Day03-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 68768
+      }
+    ]
+  },
+  {
+    "source": "daily/Rome_Day04.png",
+    "placement": "itinerary day 4",
+    "date": "2026-12-26",
+    "alt_text": "Ruins of the Forum of Pompeii with the Temple of Jupiter and Mount Vesuvius behind (AI illustration)",
+    "verdict": "usable",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/daily/Rome_Day04-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 248072
+      },
+      {
+        "path": "web/daily/Rome_Day04-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 78750
+      }
+    ]
+  },
+  {
+    "source": "daily/Rome_Day05.png",
+    "placement": "itinerary day 5",
+    "date": "2026-12-27",
+    "alt_text": "Florence Cathedral and Giotto's bell tower in Piazza del Duomo at golden hour (AI illustration)",
+    "verdict": "requires_regeneration",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/daily/Rome_Day05-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 342666
+      },
+      {
+        "path": "web/daily/Rome_Day05-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 116278
+      }
+    ]
+  },
+  {
+    "source": "daily/Rome_Day06.png",
+    "placement": "itinerary day 6",
+    "date": "2026-12-28",
+    "alt_text": "View from a coach window of a car park at sunrise (AI illustration)",
+    "verdict": "usable",
+    "website_ready": true,
+    "variants": [
+      {
+        "path": "web/daily/Rome_Day06-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 160564
+      },
+      {
+        "path": "web/daily/Rome_Day06-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 61074
+      }
+    ]
+  },
+  {
+    "source": "highlights/Rome_Highlight01_StPeters.png",
+    "placement": "tour highlight",
+    "date": "2026-12-24",
+    "alt_text": "Morning light through Bernini's colonnade at St Peter's Square, with the obelisk and Christmas tree (AI illustration)",
+    "verdict": "usable",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/highlights/Rome_Highlight01_StPeters-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 241000
+      },
+      {
+        "path": "web/highlights/Rome_Highlight01_StPeters-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 80648
+      }
+    ]
+  },
+  {
+    "source": "highlights/Rome_Highlight02_Naples.png",
+    "placement": "tour highlight",
+    "date": "2026-12-26",
+    "alt_text": "Naples seafront with Castel dell'Ovo and Mount Vesuvius (AI illustration)",
+    "verdict": "usable",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/highlights/Rome_Highlight02_Naples-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 238104
+      },
+      {
+        "path": "web/highlights/Rome_Highlight02_Naples-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 79908
+      }
+    ]
+  },
+  {
+    "source": "highlights/Rome_Highlight03_Pompeii.png",
+    "placement": "tour highlight",
+    "date": "2026-12-26",
+    "alt_text": "Ancient paved street in Pompeii with stepping stones (AI illustration)",
+    "verdict": "usable",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/highlights/Rome_Highlight03_Pompeii-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 301274
+      },
+      {
+        "path": "web/highlights/Rome_Highlight03_Pompeii-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 100286
+      }
+    ]
+  },
+  {
+    "source": "highlights/Rome_Highlight04_Capri.png",
+    "placement": "tour highlight",
+    "date": "2026-12-26",
+    "alt_text": "Limestone sea stacks off the coast of Capri (AI illustration)",
+    "verdict": "requires_regeneration",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/highlights/Rome_Highlight04_Capri-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 231278
+      },
+      {
+        "path": "web/highlights/Rome_Highlight04_Capri-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 71872
+      }
+    ]
+  },
+  {
+    "source": "highlights/Rome_Highlight05_Sorrento.png",
+    "placement": "tour highlight",
+    "date": "2026-12-26",
+    "alt_text": "Fishing boats in a Sorrento marina below pastel houses and cliffs (AI illustration)",
+    "verdict": "usable",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/highlights/Rome_Highlight05_Sorrento-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 353942
+      },
+      {
+        "path": "web/highlights/Rome_Highlight05_Sorrento-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 122346
+      }
+    ]
+  },
+  {
+    "source": "highlights/Rome_Highlight06_Florence.png",
+    "placement": "tour highlight",
+    "date": "2026-12-27",
+    "alt_text": "Ponte Vecchio over the Arno in Florence in warm afternoon light (AI illustration)",
+    "verdict": "usable_pending_photo_check",
+    "website_ready": false,
+    "variants": [
+      {
+        "path": "web/highlights/Rome_Highlight06_Florence-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 258320
+      },
+      {
+        "path": "web/highlights/Rome_Highlight06_Florence-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 81902
+      }
+    ]
+  }
+]

@@ -1,5 +1,7 @@
 # Rome quality review — incomplete
 
+> **Superseded in part by [LANDMARK_REVIEW.md](LANDMARK_REVIEW.md)**, which names the specific defects in each image. That review also overturns the "passed" status of Day 1: the coach has an impossible driver and door layout.
+
 All 13 required candidate images were generated, individually inspected and saved as separate PNGs. Three revisions address an invented banner arch, cropped Florence bell tower, and fictional arrival-town scenery. No contact sheets were generated.
 
 The files pass decoding and exact-duplicate checks. A coarse dHash comparison flags no near-duplicate candidates at distance 8 or below. This does not certify landmark geometry.

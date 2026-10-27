@@ -12,7 +12,7 @@
         "2026-12-23",
         "2026-12-28"
       ],
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "generated_requires_correction",
       "optional": false,
       "prompt": "One cinematic photorealistic wide 2:1 Christmas Rome hero banner. Warm amber lamps, golden holiday lights, peach and lavender winter twilight, matching supplied style reference. One real ground-level view from east side of St Peters Square looking west toward authentic St Peters Basilica. Very broad low rectangular Maderno facade, giant Corinthian columns, shallow central pediment, five entrance portals, long attic with statues. No invented giant central arch. Single Michelangelo dome set back behind nave and partly obscured by facade as appropriate to viewpoint. Authentic embracing Bernini colonnades and single Vatican obelisk. Christmas tree off axis. No river, bridges or other cities inserted. Generous crop margins, no text overlays, logos, watermarks, split panels, duplicate buildings or staged future ceremony.",
       "width": 1774,
@@ -25,7 +25,13 @@
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "visual_review": "Revised to remove the invented giant central arch and relocate tree. Basilica proportions/dome visibility still require verified reference comparison.",
-      "revision_count": 1
+      "revision_count": 1,
+      "landmark_review": {
+        "verdict": "requires_regeneration",
+        "finding": "Dome drum shown fully above the facade (hidden by the nave from inside the square); tree stands apart from the obelisk.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "St Peter's Basilica and its square at winter dusk, with the Vatican obelisk, a lit Christmas tree and Bernini's colonnades (AI illustration)"
     },
     {
       "filename": "daily/Rome_Day01.png",
@@ -33,19 +39,25 @@
       "date": "2026-12-23",
       "activity": "Evening departure by coach",
       "optional": false,
-      "status": "generated_visual_review_passed",
+      "status": "generated_requires_correction",
       "prompt": "Photorealistic travel photography, one continuous scene, authentic proportions and materials, cinematic natural lighting, no text, logos, watermarks, collage, split panels or duplicated structures. Keep principal subjects away from crop edges. Landscape 3:2. Illustrative destination imagery, never a claim to document a future event. A modern unbranded European touring coach parked at a generic departure area at winter dusk, passengers seen only as small anonymous figures boarding. Warm cabin lights, blue twilight. No identifiable departure city, no snow assumption, no destination signs.",
       "width": 1536,
       "height": 1024,
       "bytes": 2208619,
       "sha256": "1db93de412b432bca42e8d6adbaa20a131e0c613da8512237996741e034812e4",
       "dhash": 2749067340114958336,
-      "website_ready": true,
+      "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Wed, Dec 23, 2026 – Early Evening departure for Italy.",
-      "visual_review": "Generic coach travel scene; no invented departure/home city. Day 6 revision removed fictional hilltop town and leafy trees."
+      "visual_review": "Generic coach travel scene; no invented departure/home city. Day 6 revision removed fictional hilltop town and leafy trees.",
+      "landmark_review": {
+        "verdict": "requires_regeneration",
+        "finding": "Steering wheel on the right with the passenger door also on the right; continental coaches are left-hand drive.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "Travellers with luggage boarding a touring coach at dusk (AI illustration)"
     },
     {
       "filename": "daily/Rome_Day02.png",
@@ -65,7 +77,13 @@
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Thu, Dec 24, 2026 - Arrival in Rome, City Tour, Midnight Mass at St. Peter's Square. (Overnight Rome)",
-      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event."
+      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event.",
+      "landmark_review": {
+        "verdict": "usable_pending_photo_check",
+        "finding": "Dome somewhat over-exposed for a view from inside the square; tree, nativity, obelisk and Apostolic Palace placement consistent.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "St Peter's Square at night beside Bernini's colonnade, with the Christmas tree and nativity by the obelisk (AI illustration)"
     },
     {
       "filename": "daily/Rome_Day03.png",
@@ -73,7 +91,7 @@
       "date": "2026-12-25",
       "activity": "Christmas Day, Urbi et Orbi, Rome sightseeing",
       "optional": false,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "generated_requires_correction",
       "prompt": "Photorealistic travel photography, one continuous scene, authentic proportions and materials, cinematic natural lighting, no text, logos, watermarks, collage, split panels or duplicated structures. Keep principal subjects away from crop edges. Landscape 3:2. Illustrative destination imagery, never a claim to document a future event. Christmas morning destination photograph from the eastern side of St Peters Square facing the authentic facade and central benediction balcony of St Peters Basilica, restrained holiday decorations, soft winter daylight, some distant visitors. No pope, no procession, no ceremony taking place, no invented 2026 event details. Emphasize accurate facade and balcony; dome only as physically visible from viewpoint.",
       "width": 1536,
       "height": 1024,
@@ -85,7 +103,13 @@
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Fri, Dec 25, 2026 – Christmas Day: Urbi et Orbi at St. Peter's Square, City tour, *optional group dinner. (Overnight Rome)",
-      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event."
+      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event.",
+      "landmark_review": {
+        "verdict": "requires_regeneration",
+        "finding": "Garbled pseudo-Latin on the facade frieze and obelisk base; full dome visible from beside the obelisk.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "St Peter's Basilica on a clear winter morning, red drape on the central balcony, Christmas tree beside the obelisk (AI illustration)"
     },
     {
       "filename": "daily/Rome_Day04.png",
@@ -105,7 +129,13 @@
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Sat, Dec 26, 2026 - *excursion: Naples & Beyond, Pompeii, Capri, Sorrento (Overnight Rome)",
-      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event."
+      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event.",
+      "landmark_review": {
+        "verdict": "usable",
+        "finding": "Forum oriented correctly toward the Temple of Jupiter with Vesuvius behind; foreground column style is approximate.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "Ruins of the Forum of Pompeii with the Temple of Jupiter and Mount Vesuvius behind (AI illustration)"
     },
     {
       "filename": "daily/Rome_Day05.png",
@@ -113,7 +143,7 @@
       "date": "2026-12-27",
       "activity": "Florence guided walking tour; departure for home",
       "optional": false,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "generated_requires_correction",
       "prompt": "Photorealistic travel photography, one continuous scene, authentic proportions and materials, cinematic natural lighting, no text, logos, watermarks, collage, split panels or duplicated structures. Keep principal subjects away from crop edges. Landscape 3:2. Illustrative destination imagery, never a claim to document a future event. Street-level Florence walking-tour atmosphere in Piazza del Duomo, accurate Cathedral of Santa Maria del Fiore white green and pink marble facade, red tiled Brunelleschi dome and Giotto campanile in their real relative positions, sparse anonymous pedestrians in winter coats, gentle afternoon light. No invented guide or scheduled interior visit. Revision: zoom out to include full bell tower cornice and entire dome lantern/cross with clear sky margin; retain actual relative positions and real facade; no invented buildings.",
       "width": 1536,
       "height": 1024,
@@ -126,7 +156,13 @@
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Sun, Dec 27, 2026 - Florence, guided walking tour, post optional dinner, return to points of origin",
       "visual_review": "Revision restores full bell tower and dome within frame. Cathedral facade, viewpoint and proportions still need a photographic reference comparison.",
-      "revision_count": 1
+      "revision_count": 1,
+      "landmark_review": {
+        "verdict": "requires_regeneration",
+        "finding": "Brunelleschi's dome placed beside the facade instead of directly behind it; Baptistery shown in an impossible position.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "Florence Cathedral and Giotto's bell tower in Piazza del Duomo at golden hour (AI illustration)"
     },
     {
       "filename": "daily/Rome_Day06.png",
@@ -147,13 +183,19 @@
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Mon, Dec 28, 2026 – Morning return home.",
       "visual_review": "Generic coach travel scene; no invented departure/home city. Day 6 revision removed fictional hilltop town and leafy trees.",
-      "revision_count": 1
+      "revision_count": 1,
+      "landmark_review": {
+        "verdict": "usable",
+        "finding": "Generic sunrise arrival; no landmarks.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "View from a coach window of a car park at sunrise (AI illustration)"
     },
     {
       "filename": "highlights/Rome_Highlight01_StPeters.png",
       "placement": "tour highlight",
       "date": "2026-12-24",
-      "activity": "StPeters",
+      "activity": "St Peter's",
       "optional": false,
       "status": "generated_draft_awaiting_landmark_verification",
       "prompt": "One individual photorealistic travel image, landscape 3:2, continuous geographically accurate scene. Realistic winter light, natural colors, no collage, text, logos, watermark or invented architecture. Principal subjects inside central 75 percent. No specific future events depicted. Distinct close architectural view of the real Bernini colonnade at St Peters Square, viewed from inside its covered walkway, repeating authentic Tuscan columns, warm side lighting, Christmas season. Do not show the basilica dome. Different from any wide-square daily photo.",
@@ -169,7 +211,13 @@
       "dates": [
         "2026-12-24",
         "2026-12-25"
-      ]
+      ],
+      "landmark_review": {
+        "verdict": "usable",
+        "finding": "Colonnade interior with obelisk and tree side by side; consistent.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "Morning light through Bernini's colonnade at St Peter's Square, with the obelisk and Christmas tree (AI illustration)"
     },
     {
       "filename": "highlights/Rome_Highlight02_Naples.png",
@@ -187,7 +235,13 @@
       "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
-      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection."
+      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
+      "landmark_review": {
+        "verdict": "usable",
+        "finding": "Castel dell'Ovo with Vesuvius behind; Somma ridge on the correct side.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "Naples seafront with Castel dell'Ovo and Mount Vesuvius (AI illustration)"
     },
     {
       "filename": "highlights/Rome_Highlight03_Pompeii.png",
@@ -205,7 +259,13 @@
       "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
-      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection."
+      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
+      "landmark_review": {
+        "verdict": "usable",
+        "finding": "Generic excavated street with stepping stones; no specific street claimed.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "Ancient paved street in Pompeii with stepping stones (AI illustration)"
     },
     {
       "filename": "highlights/Rome_Highlight04_Capri.png",
@@ -224,7 +284,13 @@
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
-      "visual_review": "Faraglioni shape/order and characteristic arch not sufficiently reliable. Replace using verified reference/photo; not approved."
+      "visual_review": "Faraglioni shape/order and characteristic arch not sufficiently reliable. Replace using verified reference/photo; not approved.",
+      "landmark_review": {
+        "verdict": "requires_regeneration",
+        "finding": "Middle Faraglione far too small, arch shown as a small cave rather than a through-tunnel, Stella detached from the island.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "Limestone sea stacks off the coast of Capri (AI illustration)"
     },
     {
       "filename": "highlights/Rome_Highlight05_Sorrento.png",
@@ -242,7 +308,13 @@
       "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
-      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection."
+      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
+      "landmark_review": {
+        "verdict": "usable",
+        "finding": "Generic marina below tufa cliffs, in keeping with Marina Grande.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "Fishing boats in a Sorrento marina below pastel houses and cliffs (AI illustration)"
     },
     {
       "filename": "highlights/Rome_Highlight06_Florence.png",
@@ -260,7 +332,13 @@
       "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
-      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection."
+      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
+      "landmark_review": {
+        "verdict": "usable_pending_photo_check",
+        "finding": "Ponte Vecchio broadly correct; verify Vasari Corridor window rhythm.",
+        "details": "LANDMARK_REVIEW.md"
+      },
+      "alt_text": "Ponte Vecchio over the Arno in Florence in warm afternoon light (AI illustration)"
     }
   ],
   "highlight_status": "User approved PDF and explicitly named attractions/destinations as highlights. St Peters covers named square and Christmas visits; no separate invented event asset. Rome is represented by banner and St Peters; Florence by a distinct city view.",
@@ -275,7 +353,7 @@
   "total_expected_images": 13,
   "highlight_mapping": [
     {
-      "highlight": "StPeters",
+      "highlight": "St Peter's",
       "filename": "highlights/Rome_Highlight01_StPeters.png",
       "optional": false
     },
@@ -323,6 +401,7 @@
     "dhash_candidates_at_distance_8_or_less": 0,
     "visual_review": "All 13 viewed individually; architectural accuracy not certified. Capri needs correction.",
     "repeated_landmarks": "St Peters appears in banner, days 2 and 3, and one distinct highlight because the itinerary revisits the square. Night/day and viewpoint differ. Pompeii and Florence daily/highlight scenes differ.",
-    "website_ready_count": 2
+    "website_ready_count": 2,
+    "landmark_review": "See LANDMARK_REVIEW.md: 6 usable, 2 usable pending photo check, 5 require regeneration (banner, Day 1, Day 3, Day 5, Capri)."
   }
 }
