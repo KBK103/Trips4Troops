@@ -12,20 +12,20 @@
         "2026-12-23",
         "2026-12-28"
       ],
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "art_direction_v2_sample_awaiting_user_feedback",
       "optional": false,
-      "prompt": "One cinematic photorealistic wide 2:1 Christmas Rome hero banner. Warm amber lamps, golden holiday lights, peach and lavender winter twilight, matching supplied style reference. One real ground-level view from east side of St Peters Square looking west toward authentic St Peters Basilica. Very broad low rectangular Maderno facade, giant Corinthian columns, shallow central pediment, five entrance portals, long attic with statues. No invented giant central arch. Single Michelangelo dome set back behind nave and partly obscured by facade as appropriate to viewpoint. Authentic embracing Bernini colonnades and single Vatican obelisk. Christmas tree off axis. No river, bridges or other cities inserted. Generous crop margins, no text overlays, logos, watermarks, split panels, duplicate buildings or staged future ceremony.",
+      "prompt": "Create ONE premium contemporary illustrated travel artwork for a wide website hero banner, Christmas in Rome tour, December 23–28. Deliberately and beautifully ARTISTIC, not synthetic stock photography. Sophisticated hand-painted cinematic digital matte painting with visible subtle painterly texture, refined forms, atmospheric depth, editorial travel-poster artistry BUT absolutely NO words, titles, lettering, logo or border. ONE flowing seamless composition, absolutely NO panels, strips, picture frames, cutouts, inset photos, white dividing lines, collage, brochure layout or discrete sections. The entire canvas is one designed piece of art evoking a journey, not claiming to be one literal photographic viewpoint. Strong spacious composition with main landmarks confined to central 65% width and middle 65% height to survive responsive banner cropping; no landmarks near edges. Dominant emotional centerpiece: Christmas in Rome, St Peter's Basilica and its embracing square rendered recognizably with authentic broad low Maderno facade, single Michelangelo dome correctly set behind facade, warm golden lamps and a restrained small Christmas tree, a few tiny human silhouettes. Let warm stone paving and a gently flowing atmospheric sweep carry the eye organically toward a smaller Florence skyline in the distance, recognizably Brunelleschi's red octagonal dome and Giotto's separate slender square bell tower. A subtle blue Mediterranean coastal atmosphere and distant Capri sea-stack silhouettes hint at the OPTIONAL southern Italy excursion; secondary, not equally dominant and no assertive representation that it is included. Do not merge buildings into invented hybrid architecture. Landmarks stand independently in a consciously symbolic painterly landscape joined by light and atmosphere, no hard boundaries between destinations. Rome occupies about 70 percent of attention, secondary destination cues about 20, open sky and atmosphere provide breathing room. Lighting: luminous soft winter dusk, deep indigo and muted periwinkle shadows, elegant amber-gold highlights, subtle rose dusk, restrained saturation, no explosive orange sunset, no plastic surfaces or glossy HDR. Beautiful professionally art-directed proportions, warm inviting Christmas mood, crisp focal detail and painterly atmospheric edges. No transport or new activities depicted. No depiction of actual future Mass or papal appearance. Wide landscape around 2:1. Individual banner image only.",
       "width": 1774,
       "height": 887,
-      "bytes": 2706723,
-      "sha256": "2d6c22b69eacebca79fc6afde2931b5717ceebbf55c9671e7b51aac98147fa73",
-      "dhash": 1643980357807761657,
+      "bytes": 3069229,
+      "sha256": "fe35fb497b203fe15516754c9c7912f5d73f91de527ff5b2a044f2161598d9f9",
+      "dhash": 12858181799572201664,
       "website_ready": false,
-      "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
+      "origin": "AI-generated deliberately painterly symbolic tour artwork, not a literal geographic viewpoint or authentic photograph",
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
-      "visual_review": "Revised to remove the invented giant central arch and relocate tree. Basilica proportions/dome visibility still require verified reference comparison.",
-      "revision_count": 1
+      "visual_review": "One continuous painterly scene, no panels or inset photos. Rome is dominant; Florence and optional coast are secondary. Geographic juxtaposition is symbolic. Florence remains close to the right edge and could be lost to responsive cropping. Landmark accuracy and final style approval remain outstanding.",
+      "revision_count": 2
     },
     {
       "filename": "daily/Rome_Day01.png",
@@ -33,19 +33,20 @@
       "date": "2026-12-23",
       "activity": "Evening departure by coach",
       "optional": false,
-      "status": "generated_visual_review_passed",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "Photorealistic travel photography, one continuous scene, authentic proportions and materials, cinematic natural lighting, no text, logos, watermarks, collage, split panels or duplicated structures. Keep principal subjects away from crop edges. Landscape 3:2. Illustrative destination imagery, never a claim to document a future event. A modern unbranded European touring coach parked at a generic departure area at winter dusk, passengers seen only as small anonymous figures boarding. Warm cabin lights, blue twilight. No identifiable departure city, no snow assumption, no destination signs.",
       "width": 1536,
       "height": 1024,
       "bytes": 2208619,
       "sha256": "1db93de412b432bca42e8d6adbaa20a131e0c613da8512237996741e034812e4",
       "dhash": 2749067340114958336,
-      "website_ready": true,
+      "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Wed, Dec 23, 2026 – Early Evening departure for Italy.",
-      "visual_review": "Generic coach travel scene; no invented departure/home city. Day 6 revision removed fictional hilltop town and leafy trees."
+      "visual_review": "Generic coach travel scene; no invented departure/home city. Day 6 revision removed fictional hilltop town and leafy trees.",
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "daily/Rome_Day02.png",
@@ -53,7 +54,7 @@
       "date": "2026-12-24",
       "activity": "Rome arrival, city tour, Midnight Mass at St. Peter’s Square",
       "optional": false,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "Photorealistic travel photography, one continuous scene, authentic proportions and materials, cinematic natural lighting, no text, logos, watermarks, collage, split panels or duplicated structures. Keep principal subjects away from crop edges. Landscape 3:2. Illustrative destination imagery, never a claim to document a future event. An authentic ground-level view along the Bernini colonnade into St Peters Square at night in Christmas season, real Basilica facade visible beyond, warm lamps and modest seasonal lights. Small anonymous visitors in winter coats. Show the nighttime setting of the planned visit, no staged liturgy, no pope, no invented ceremony, no assumption of access inside the basilica.",
       "width": 1536,
       "height": 1024,
@@ -65,7 +66,8 @@
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Thu, Dec 24, 2026 - Arrival in Rome, City Tour, Midnight Mass at St. Peter's Square. (Overnight Rome)",
-      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event."
+      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event.",
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "daily/Rome_Day03.png",
@@ -73,7 +75,7 @@
       "date": "2026-12-25",
       "activity": "Christmas Day, Urbi et Orbi, Rome sightseeing",
       "optional": false,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "Photorealistic travel photography, one continuous scene, authentic proportions and materials, cinematic natural lighting, no text, logos, watermarks, collage, split panels or duplicated structures. Keep principal subjects away from crop edges. Landscape 3:2. Illustrative destination imagery, never a claim to document a future event. Christmas morning destination photograph from the eastern side of St Peters Square facing the authentic facade and central benediction balcony of St Peters Basilica, restrained holiday decorations, soft winter daylight, some distant visitors. No pope, no procession, no ceremony taking place, no invented 2026 event details. Emphasize accurate facade and balcony; dome only as physically visible from viewpoint.",
       "width": 1536,
       "height": 1024,
@@ -85,7 +87,8 @@
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Fri, Dec 25, 2026 – Christmas Day: Urbi et Orbi at St. Peter's Square, City tour, *optional group dinner. (Overnight Rome)",
-      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event."
+      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event.",
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "daily/Rome_Day04.png",
@@ -93,7 +96,7 @@
       "date": "2026-12-26",
       "activity": "Optional Naples & Beyond: Pompeii, Capri, Sorrento",
       "optional": true,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "Photorealistic travel photography, one continuous scene, authentic proportions and materials, cinematic natural lighting, no text, logos, watermarks, collage, split panels or duplicated structures. Keep principal subjects away from crop edges. Landscape 3:2. Illustrative destination imagery, never a claim to document a future event. Optional excursion destination: one continuous photograph from the ancient forum of Pompeii with authentic weathered Roman ruins and Mount Vesuvius in the background, clear cool winter daylight, no eruption, no invented intact temple, no Capri or Sorrento inserted in this viewpoint. This represents Pompeii only, one of the optional destinations.",
       "width": 1536,
       "height": 1024,
@@ -105,7 +108,8 @@
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Sat, Dec 26, 2026 - *excursion: Naples & Beyond, Pompeii, Capri, Sorrento (Overnight Rome)",
-      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event."
+      "visual_review": "Single scene; activity/season broadly consistent; not a depiction of the actual future event.",
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "daily/Rome_Day05.png",
@@ -113,7 +117,7 @@
       "date": "2026-12-27",
       "activity": "Florence guided walking tour; departure for home",
       "optional": false,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "Photorealistic travel photography, one continuous scene, authentic proportions and materials, cinematic natural lighting, no text, logos, watermarks, collage, split panels or duplicated structures. Keep principal subjects away from crop edges. Landscape 3:2. Illustrative destination imagery, never a claim to document a future event. Street-level Florence walking-tour atmosphere in Piazza del Duomo, accurate Cathedral of Santa Maria del Fiore white green and pink marble facade, red tiled Brunelleschi dome and Giotto campanile in their real relative positions, sparse anonymous pedestrians in winter coats, gentle afternoon light. No invented guide or scheduled interior visit. Revision: zoom out to include full bell tower cornice and entire dome lantern/cross with clear sky margin; retain actual relative positions and real facade; no invented buildings.",
       "width": 1536,
       "height": 1024,
@@ -126,7 +130,8 @@
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Sun, Dec 27, 2026 - Florence, guided walking tour, post optional dinner, return to points of origin",
       "visual_review": "Revision restores full bell tower and dome within frame. Cathedral facade, viewpoint and proportions still need a photographic reference comparison.",
-      "revision_count": 1
+      "revision_count": 1,
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "daily/Rome_Day06.png",
@@ -134,20 +139,21 @@
       "date": "2026-12-28",
       "activity": "Morning arrival home",
       "optional": false,
-      "status": "generated_visual_review_passed",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "Photorealistic travel photography, one continuous scene, authentic proportions and materials, cinematic natural lighting, no text, logos, watermarks, collage, split panels or duplicated structures. Keep principal subjects away from crop edges. Landscape 3:2. Illustrative destination imagery, never a claim to document a future event. View from inside a modern European touring coach looking toward a generic arrival parking area through the side window at dawn, warm sunrise and subtle cabin reflections, neutral unmarked setting. No identifiable home city or claimed route, no airport, train or ferry. No readable signs. Revision: outside window only a flat neutral coach parking area bordered by bare deciduous trees, pale winter sunrise; remove all hilltop buildings, mountains, landmarks and leafy trees.",
       "width": 1536,
       "height": 1024,
       "bytes": 2304074,
       "sha256": "df53feb95d79ec69dce3603335a7b486478832bbd3d062a2c0d97680482b6caa",
       "dhash": 4769630180335730880,
-      "website_ready": true,
+      "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
       "source_program": "Mon, Dec 28, 2026 – Morning return home.",
       "visual_review": "Generic coach travel scene; no invented departure/home city. Day 6 revision removed fictional hilltop town and leafy trees.",
-      "revision_count": 1
+      "revision_count": 1,
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "highlights/Rome_Highlight01_StPeters.png",
@@ -155,7 +161,7 @@
       "date": "2026-12-24",
       "activity": "StPeters",
       "optional": false,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "One individual photorealistic travel image, landscape 3:2, continuous geographically accurate scene. Realistic winter light, natural colors, no collage, text, logos, watermark or invented architecture. Principal subjects inside central 75 percent. No specific future events depicted. Distinct close architectural view of the real Bernini colonnade at St Peters Square, viewed from inside its covered walkway, repeating authentic Tuscan columns, warm side lighting, Christmas season. Do not show the basilica dome. Different from any wide-square daily photo.",
       "width": 1536,
       "height": 1024,
@@ -169,7 +175,8 @@
       "dates": [
         "2026-12-24",
         "2026-12-25"
-      ]
+      ],
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "highlights/Rome_Highlight02_Naples.png",
@@ -177,7 +184,7 @@
       "date": "2026-12-26",
       "activity": "Naples",
       "optional": true,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "One individual photorealistic travel image, landscape 3:2, continuous geographically accurate scene. Realistic winter light, natural colors, no collage, text, logos, watermark or invented architecture. Principal subjects inside central 75 percent. No specific future events depicted. Naples waterfront from the pedestrian promenade looking toward authentic Castel dell Ovo on its rocky islet, calm bay, cool clear December afternoon. One real viewpoint, no other destinations inserted.",
       "width": 1536,
       "height": 1024,
@@ -187,7 +194,8 @@
       "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
-      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection."
+      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "highlights/Rome_Highlight03_Pompeii.png",
@@ -195,7 +203,7 @@
       "date": "2026-12-26",
       "activity": "Pompeii",
       "optional": true,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "One individual photorealistic travel image, landscape 3:2, continuous geographically accurate scene. Realistic winter light, natural colors, no collage, text, logos, watermark or invented architecture. Principal subjects inside central 75 percent. No specific future events depicted. Low eye-level photograph along an authentic excavated Pompeii street with basalt paving, worn stepping stones and roofless modest ancient buildings, late afternoon winter side lighting. No forum view, no Vesuvius needed, no invented intact palace.",
       "width": 1536,
       "height": 1024,
@@ -205,7 +213,8 @@
       "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
-      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection."
+      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "highlights/Rome_Highlight04_Capri.png",
@@ -213,7 +222,7 @@
       "date": "2026-12-26",
       "activity": "Capri",
       "optional": true,
-      "status": "generated_requires_correction",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "One individual photorealistic travel image, landscape 3:2, continuous geographically accurate scene. Realistic winter light, natural colors, no collage, text, logos, watermark or invented architecture. Principal subjects inside central 75 percent. No specific future events depicted. The real three Faraglioni sea stacks off Capri viewed from a high coastal overlook in clear winter midday light. Accurate limestone forms and deep blue sea, restrained sparse vegetation, no summer flowers, no boat ride depicted.",
       "width": 1536,
       "height": 1024,
@@ -224,7 +233,8 @@
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
       "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
-      "visual_review": "Faraglioni shape/order and characteristic arch not sufficiently reliable. Replace using verified reference/photo; not approved."
+      "visual_review": "Faraglioni shape/order and characteristic arch not sufficiently reliable. Replace using verified reference/photo; not approved.",
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "highlights/Rome_Highlight05_Sorrento.png",
@@ -232,7 +242,7 @@
       "date": "2026-12-26",
       "activity": "Sorrento",
       "optional": true,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "One individual photorealistic travel image, landscape 3:2, continuous geographically accurate scene. Realistic winter light, natural colors, no collage, text, logos, watermark or invented architecture. Principal subjects inside central 75 percent. No specific future events depicted. Sorrento Marina Grande viewed from its harbor waterfront with authentic pastel buildings rising below tuff cliffs, quiet winter morning, moored small local fishing boats as environment only. No invented cruise or tour boat.",
       "width": 1536,
       "height": 1024,
@@ -242,7 +252,8 @@
       "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
-      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection."
+      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     },
     {
       "filename": "highlights/Rome_Highlight06_Florence.png",
@@ -250,7 +261,7 @@
       "date": "2026-12-27",
       "activity": "Florence",
       "optional": false,
-      "status": "generated_draft_awaiting_landmark_verification",
+      "status": "rejected_by_user_photographic_style",
       "prompt": "One individual photorealistic travel image, landscape 3:2, continuous geographically accurate scene. Realistic winter light, natural colors, no collage, text, logos, watermark or invented architecture. Principal subjects inside central 75 percent. No specific future events depicted. Authentic Ponte Vecchio in Florence viewed from the east bank of the Arno, recognizable three segmental stone arches and shops built along the bridge, warm December afternoon light. Walking tour destination setting only, no boat ride, no cathedral inserted.",
       "width": 1536,
       "height": 1024,
@@ -260,7 +271,8 @@
       "website_ready": false,
       "origin": "AI-generated using the configured image_gen service; not an authentic photograph of the scheduled trip",
       "external_photo_license": null,
-      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection."
+      "no_text_requirement": "No overlaid titles, labels, logos or watermarks; architectural inscriptions may appear and require inspection.",
+      "user_feedback": "Images look clearly AI-generated in a bad way. Do not treat as approved photographic assets."
     }
   ],
   "highlight_status": "User approved PDF and explicitly named attractions/destinations as highlights. St Peters covers named square and Christmas visits; no separate invented event asset. Rome is represented by banner and St Peters; Florence by a distinct city view.",
@@ -271,7 +283,7 @@
     "Departure and home locations are unspecified.",
     "AI images require visual validation; image generation is not evidence of landmark verification."
   ],
-  "status": "blocked_on_reference_access_not_complete",
+  "status": "art_direction_revision_in_progress",
   "total_expected_images": 13,
   "highlight_mapping": [
     {
@@ -321,8 +333,9 @@
     "file_integrity": "13 readable PNG files",
     "exact_duplicates": 0,
     "dhash_candidates_at_distance_8_or_less": 0,
-    "visual_review": "All 13 viewed individually; architectural accuracy not certified. Capri needs correction.",
+    "visual_review": "Previous photo-like assets rejected by user. New painterly banner is a direction sample, not final approval. Further architecture and responsive crop work remains.",
     "repeated_landmarks": "St Peters appears in banner, days 2 and 3, and one distinct highlight because the itinerary revisits the square. Night/day and viewpoint differ. Pompeii and Florence daily/highlight scenes differ.",
-    "website_ready_count": 2
-  }
+    "website_ready_count": 0
+  },
+  "art_direction": "Banner: one seamless intentional artwork evoking tour, no sections. Daily/highlight images remain separate photographic placements and need replacement. See ../CREATIVE_DIRECTION.md."
 }
