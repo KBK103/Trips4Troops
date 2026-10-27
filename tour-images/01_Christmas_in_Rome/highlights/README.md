@@ -1,69 +1,69 @@
-# Christmas in Rome — highlights
+# A Christmas away in Italy
 
-Six individual real photographs for the program and summary. No generated architecture, added labels, panels or watermarks. Each photo has a separate source and credit.
+Christmas in Rome, a walking tour of Florence, and the option to discover southern Italy along the way.
 
-**Naples, Pompeii, Capri and Sorrento are optional excursion destinations on December 26.** St. Peter’s is associated with December 24–25; Florence with December 27.
+## Spend Christmas somewhere you’ll remember
 
-These are representative destination photographs taken on the dates in the credits, not photographs of the future 2026 trip. Some sources were taken in summer; they do not promise December weather, swimming, boat travel or seasonal services.
+Rome · December 24–25
 
-The banner is a separate piece of artwork. Daily itinerary images remain separate and still need improvement.
+![Christmas-season visitors gathered beneath a lit tree in St. Peter’s Square.](Rome_Highlight01_StPeters.png)
 
-## St. Peter’s Square at night
+Spend Christmas Eve and Christmas Day in Rome, with St. Peter’s Square at the heart of the holiday.
 
-![St. Peter’s Square at night](Rome_Highlight01_StPeters.png)
+Photo: Cruz.croce · [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) · [Source](https://commons.wikimedia.org/wiki/File:VatikanBor2024_(7).jpg)
 
-The illuminated basilica, obelisk and colonnade in a real, continuous photograph.
+## See another side of Italy in Naples
 
-Photo: **Radek Kucharski from Warsaw, Poland** · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Original source](https://commons.wikimedia.org/wiki/File:Piazza_San_Pietro_by_night_(52221741019).jpg) · [Open full image](Rome_Highlight01_StPeters.png)
+Optional excursion · December 26
 
-Source capture date: Taken on 4 October 2021, 19:23.
+![Castel dell’Ovo beside the water in Naples.](Rome_Highlight02_Naples.png)
 
-## Naples waterfront — optional
+Naples brings the sea into the journey: an open bay and a coastal setting that feels different from Rome.
 
-![Naples waterfront](Rome_Highlight02_Naples.png)
+Photo: Bernard Gagnon · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Castel_dell%27Ovo_(Naples)_02.jpg)
 
-Castel dell’Ovo seen from the waterfront; a destination view, not a scheduled interior visit.
+## Walk where another world once lived
 
-Photo: **Bernard Gagnon** · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) · [Original source](https://commons.wikimedia.org/wiki/File:Castel_dell%27Ovo_(Naples)_02.jpg) · [Open full image](Rome_Highlight02_Naples.png)
+Optional excursion · December 26
 
-Source capture date: 2022-04-25.
+![An eye-level view along an ancient stone street in Pompeii.](Rome_Highlight03_Pompeii.png)
 
-## Pompeii — optional
+Explore Pompeii’s surviving streets and picture the people who once called them home.
 
-![Pompeii](Rome_Highlight03_Pompeii.png)
+Photo: Pudelek · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Pompeii_2021_-_03.jpg)
 
-An excavated street, Via degli Augustali, with authentic stone paving and surviving walls.
+## Bring home a view of Capri
 
-Photo: **Pudelek** · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Original source](https://commons.wikimedia.org/wiki/File:Pompeii_2021_-_03.jpg) · [Open full image](Rome_Highlight03_Pompeii.png)
+Optional excursion · December 26
 
-Source capture date: 2021-10-04 13:30:37.
+![Capri’s Faraglioni and blue Mediterranean water, viewed from the island.](Rome_Highlight04_Capri.png)
 
-## Capri — optional
+Sea cliffs rise above the Mediterranean—a striking change of scenery on the optional southern Italy excursion.
 
-![Capri](Rome_Highlight04_Capri.png)
+Photo: Alessio Maffeis from Stockholm, Sweden · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Source](https://commons.wikimedia.org/wiki/File:Faraglioni_(52215154472).jpg)
 
-The real Faraglioni sea stacks photographed from the island; no boat excursion is implied.
+## Discover life by the water in Sorrento
 
-Photo: **Alessio Maffeis from Stockholm, Sweden** · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Original source](https://commons.wikimedia.org/wiki/File:Faraglioni_(52215154472).jpg) · [Open full image](Rome_Highlight04_Capri.png)
+Optional excursion · December 26
 
-Source capture date: 2022-07-11 12:24.
+![Marina Grande’s waterside houses and fishing boats in Sorrento.](Rome_Highlight05_Sorrento.png)
 
-## Sorrento — optional
+Colourful harbour houses and fishing boats bring another side of Italy into the holiday.
 
-![Sorrento](Rome_Highlight05_Sorrento.png)
+Photo: Davidhermanns · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Marina_Grande,_Sorrento.jpg)
 
-Marina Grande’s fishing village and harbour; no swimming or beach activity is included or implied.
+## Discover Florence one street at a time
 
-Photo: **Davidhermanns** · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Original source](https://commons.wikimedia.org/wiki/File:Marina_Grande,_Sorrento.jpg) · [Open full image](Rome_Highlight05_Sorrento.png)
+Florence walking tour · December 27
 
-Source capture date: 2017-07-09.
+![Ponte Vecchio and its reflections on the Arno at blue hour.](Rome_Highlight06_Florence.png)
 
-## Florence
+Explore Florence on a guided walking tour, with the city unfolding at walking pace before the journey home.
 
-![Florence](Rome_Highlight06_Florence.png)
+Photo: Commonists · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg)
 
-Ponte Vecchio and reflections on the Arno at blue hour; a city setting, not a scheduled boat trip.
+---
 
-Photo: **Commonists** · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Original source](https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg) · [Open full image](Rome_Highlight06_Florence.png)
+[Photo credits and capture dates](CREDITS.md) · [Image review notes](../QA.md)
 
-Source capture date: 2021-07-31 19:47:11.
+This is an experience-direction study. The Christmas photo is a new candidate; the other five photographs are retained while their selection is reconsidered. Source photos show earlier visits and may show different seasons from the December 2026 tour.

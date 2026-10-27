@@ -343,124 +343,6 @@
           }
         ]
       },
-      "132224922": {
-        "pageid": 132224922,
-        "ns": 6,
-        "title": "File:Piazza San Pietro by night (52221741019).jpg",
-        "imagerepository": "local",
-        "imageinfo": [
-          {
-            "size": 13159178,
-            "width": 5970,
-            "height": 3358,
-            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg/1920px-Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-            "thumbwidth": 1920,
-            "thumbheight": 1080,
-            "responsiveUrls": {
-              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg/3840px-Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            },
-            "thumbattribs": {
-              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg/1920px-Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-              "decoding": "async",
-              "loading": "lazy",
-              "width": 1920,
-              "height": 1080,
-              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg/3840px-Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
-            },
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piazza_San_Pietro_by_night_(52221741019).jpg",
-            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132224922",
-            "extmetadata": {
-              "DateTime": {
-                "value": "2023-05-23 03:03:31",
-                "source": "mediawiki-metadata",
-                "hidden": ""
-              },
-              "ObjectName": {
-                "value": "Piazza San Pietro by night (52221741019)",
-                "source": "mediawiki-metadata"
-              },
-              "CommonsMetadataExtension": {
-                "value": 1.2,
-                "source": "extension",
-                "hidden": ""
-              },
-              "Categories": {
-                "value": "Vatican obelisk|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Vatican City photographs taken on 2021-10-04|October 2021 in Rome|Files from Radek Kucharski Flickr stream|Saint Peter's Basilica at night|Saint Peter's Square at night|Saint Peter's Basilica by night",
-                "source": "commons-categories",
-                "hidden": ""
-              },
-              "Assessments": {
-                "value": "",
-                "source": "commons-categories",
-                "hidden": ""
-              },
-              "GPSLatitude": {
-                "value": "41.901837",
-                "source": "commons-desc-page"
-              },
-              "GPSLongitude": {
-                "value": "12.458024",
-                "source": "commons-desc-page"
-              },
-              "GPSMapDatum": {
-                "value": "WGS-84",
-                "source": "commons-desc-page",
-                "hidden": ""
-              },
-              "ImageDescription": {
-                "value": "Vatican",
-                "source": "commons-desc-page"
-              },
-              "DateTimeOriginal": {
-                "value": "Taken on 4 October 2021, 19:23",
-                "source": "commons-desc-page"
-              },
-              "Credit": {
-                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/137294100@N08/52221741019/\">Piazza San Pietro by night</a>",
-                "source": "commons-desc-page"
-              },
-              "Artist": {
-                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/137294100@N08\">Radek Kucharski</a> from Warsaw, Poland",
-                "source": "commons-desc-page"
-              },
-              "LicenseShortName": {
-                "value": "CC BY 2.0",
-                "source": "commons-desc-page",
-                "hidden": ""
-              },
-              "UsageTerms": {
-                "value": "Creative Commons Attribution 2.0",
-                "source": "commons-desc-page"
-              },
-              "AttributionRequired": {
-                "value": "true",
-                "source": "commons-desc-page",
-                "hidden": ""
-              },
-              "LicenseUrl": {
-                "value": "https://creativecommons.org/licenses/by/2.0",
-                "source": "commons-desc-page"
-              },
-              "Copyrighted": {
-                "value": "True",
-                "source": "commons-desc-page",
-                "hidden": ""
-              },
-              "Restrictions": {
-                "value": "",
-                "source": "commons-desc-page",
-                "hidden": ""
-              },
-              "License": {
-                "value": "cc-by-2.0",
-                "source": "commons-templates",
-                "hidden": ""
-              }
-            }
-          }
-        ]
-      },
       "147445454": {
         "pageid": 147445454,
         "ns": 6,
@@ -677,6 +559,112 @@
               },
               "License": {
                 "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162791087": {
+        "pageid": 162791087,
+        "ns": 6,
+        "title": "File:VatikanBor2024 (7).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 783696,
+            "width": 4080,
+            "height": 3060,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/VatikanBor2024_%287%29.jpg/1920px-VatikanBor2024_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1920,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/VatikanBor2024_%287%29.jpg/3840px-VatikanBor2024_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/VatikanBor2024_%287%29.jpg/1920px-VatikanBor2024_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1920,
+              "height": 1440,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/VatikanBor2024_%287%29.jpg/3840px-VatikanBor2024_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/VatikanBor2024_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:VatikanBor2024_(7).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162791087",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-25 15:10:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "VatikanBor2024 (7)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Night in the Vatican City|CC-Zero|Vatican obelisk|Christmas trees in Saint Peter's Square|Self-published work|Christmas trees in Italy",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vatican christmas tree 2024/5",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cruz.croce&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cruz.croce (page does not exist)\">Cruz.croce</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
                 "source": "commons-templates",
                 "hidden": ""
               }

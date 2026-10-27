@@ -1,19 +1,20 @@
 [
   {
     "filename": "highlights/Rome_Highlight01_StPeters.png",
-    "title": "Piazza San Pietro by night (52221741019).jpg",
-    "author": "Radek Kucharski from Warsaw, Poland",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Piazza_San_Pietro_by_night_(52221741019).jpg",
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg",
-    "downloaded_thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Piazza_San_Pietro_by_night_%2852221741019%29.jpg/1920px-Piazza_San_Pietro_by_night_%2852221741019%29.jpg",
-    "commons_page_id": 132224922,
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "attribution_required": true,
-    "source_capture_date": "Taken on 4 October 2021, 19:23",
+    "title": "VatikanBor2024 (7).jpg",
+    "author": "Cruz.croce",
+    "source_page": "https://commons.wikimedia.org/wiki/File:VatikanBor2024_(7).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/VatikanBor2024_%287%29.jpg",
+    "downloaded_thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/VatikanBor2024_%287%29.jpg/1920px-VatikanBor2024_%287%29.jpg",
+    "commons_page_id": 162791087,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution_required": false,
+    "source_capture_date": "2024",
+    "source_context": "Vatican christmas tree 2024/5",
     "retrieved_date": "2026-10-27",
-    "modifications": "Wikimedia-provided 1920px thumbnail, then JPEG decoded and losslessly re-encoded as PNG. No crop, retouching, generative changes, labels or color grading applied.",
-    "source_jpeg_sha256": "6aa6745280f3af0262ce26761426710b897b576e79e7d550cb014142e3fb67fc"
+    "modifications": "Wikimedia-provided 1920px thumbnail, re-encoded to PNG without cropping, retouching or generative changes.",
+    "source_jpeg_sha256": "7ad627a787c49ee177cb7edf306d9e993ff1d8daf01cb986b24760c89c346193"
   },
   {
     "filename": "highlights/Rome_Highlight02_Naples.png",

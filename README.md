@@ -8,9 +8,9 @@
 
 [Open the full banner](tour-images/01_Christmas_in_Rome/banner/Rome_Banner.png) · [Creative direction](tour-images/CREATIVE_DIRECTION.md)
 
-## Improved highlights — real photography
+## Highlights — a reason to picture yourself there
 
-The six highlight images have been replaced with licensed real photographs. [View the highlight gallery](tour-images/01_Christmas_in_Rome/highlights/README.md). They belong separately in the program and summary, with [photo credits](tour-images/01_Christmas_in_Rome/highlights/CREDITS.md). Naples, Pompeii, Capri and Sorrento remain optional. Source photos represent their destinations; capture dates and seasons differ from the future December trip.
+The highlights are being revised around the guest’s experience. The Christmas image now shows a real festive scene among visitors; all six headlines and captions describe what the trip offers the traveller. The other five photo selections remain provisional. [View the highlight gallery](tour-images/01_Christmas_in_Rome/highlights/README.md). They belong separately in the program and summary, with [photo credits](tour-images/01_Christmas_in_Rome/highlights/CREDITS.md). Naples, Pompeii, Capri and Sorrento remain optional. Source photos represent their destinations; capture dates and seasons differ from the future December trip.
 
 The six daily AI images remain rejected and still need replacement.
 

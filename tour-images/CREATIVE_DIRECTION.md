@@ -14,3 +14,11 @@ The banner is one contemporary piece of travel artwork that evokes the entire to
 - Optional excursions remain optional in the asset manifest and website copy.
 
 The user cited an Iceland/Norway banner as the preferred example. That image has not been provided, so no exact style match is claimed. The Rome revision is a direction sample, not approval of the final style for all 25 tours.
+
+## Highlights — guest experience comes first
+
+Begin each selection with a reason to travel: sharing a holiday, discovering something, a change of scenery, or the pleasure of exploring together. Choose a camera position that lets the viewer imagine being there. Use people when they contribute to that experience, rather than as decoration. Crowds can also undermine the desired feeling. A building-only image is not sufficient merely because the landmark is famous.
+
+The image and caption should work for someone who does not recognize the location. Explain what they can look forward to, with concrete details from the itinerary. Keep factual source and license documentation in the manifest and credits; keep technical production notes out of the highlight copy.
+
+Do not turn this principle into invented inclusions: no implied meals, beach days, boat trips, private access, exact paths or additional free time. Real photographs are preferred; earlier trips must not be presented as the future 2026 event. The current Christmas image is a first direction sample; the remaining photo selections still require review.

@@ -63,10 +63,10 @@
     {
       "filename": "highlights/Rome_Highlight01_StPeters.png",
       "width": 1920,
-      "height": 1080,
-      "bytes": 3045506,
-      "sha256": "dbd1579dbdb6f015114a351e79deeb4f498c5a9b4ae845002dec2c0e9432c368",
-      "dhash": 12803789536248657135
+      "height": 1440,
+      "bytes": 3163999,
+      "sha256": "9ad1f67456f6ed575e2e3d84ad3f8285816d726610e74d0263328733c34016bd",
+      "dhash": 8120714781220955730
     },
     {
       "filename": "highlights/Rome_Highlight02_Naples.png",

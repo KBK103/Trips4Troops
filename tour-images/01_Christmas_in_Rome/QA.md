@@ -1,17 +1,11 @@
-# Current image review
+# Current review — guest-experience direction
 
-## Highlights: authentic photographs
+The user rejected destination documentation as the basis for selling the tour. Selection now starts with what the traveller can imagine experiencing: shared Christmas atmosphere, discovery, a change of scenery and walking through a city. A recognizable landmark alone does not pass this editorial test.
 
-All six previous AI highlight images have been replaced with real, independently sourced Wikimedia Commons photographs. Each was viewed, matched to its destination and checked for watermarks. The source pages identify the actual landmarks. Credits, source dates, URLs, licenses and original metadata are retained in `highlights/`. No AI generation, retouching, cropping or color grading was used. Wikimedia supplied 1920px versions; conversion to PNG preserves their decoded RGB pixels exactly.
+One image has changed in this revision: the Christmas highlight now uses a genuine 2024/25 seasonal photograph taken among visitors in St Peter’s Square. It suggests participation and festive atmosphere. It is an initial direction sample, not final approval; the crowded frame and mobile-photo quality are explicit tradeoffs. No depiction of the future 2026 ceremony is claimed.
 
-St. Peter’s: an illuminated square at night, not a staged Mass. Naples: Castel dell’Ovo waterfront. Pompeii: Via degli Augustali rather than the daily forum composition. Capri: authentic Faraglioni shapes rather than the fabricated AI rock formation. Sorrento: Marina Grande village and harbour. Florence: Ponte Vecchio at blue hour, distinct from the daily cathedral image. Each is a continuous photograph.
+All six headlines and captions are rewritten around the visitor’s experience. The other five licensed photographs remain provisional, not claimed to have been reselected. Florence in particular still needs a more immersive walking perspective; the broad bridge photograph documents the city more than participation. Naples also still needs a stronger coastal experience composition. Retain genuine eye-level discovery in Pompeii, a viewpoint that invites looking out over Capri, and the lived-in waterfront character of Sorrento when refining selections.
 
-The four southern Italy images remain optional. The source photographs come from different dates and seasons, including summer; they are destination views, not evidence of December conditions, beach activities, boat travel or the actual future tour. Natural harbour boats and signage do not add those activities to the program. Keep the optional captions and link the photo credits when integrating the site.
+Optional destinations remain optional. No meals, boat trips, beach time, specific walking routes or other unconfirmed inclusions have been added. Photo credits, capture dates and licenses remain recorded. No photo text overlays were added.
 
-All 13 PNGs decode. No exact duplicates were found. Coarse dHash candidates, if any, are recorded in `file-validation.json`; this does not prove every possible similarity absent.
-
-## Still outstanding
-
-The banner remains a symbolic painterly direction sample awaiting feedback, architectural review and crop refinement. The six daily AI images remain rejected and need replacement. Rome as a whole is not complete; tours 2–25 imagery has not started.
-
-Commons API and supported thumbnail retrieval now work. Some original-image downloads return HTTP 429 with Retry-After 600, so supported 1920px thumbnails were used. No paid photo service was added.
+The six daily AI images remain rejected. The banner remains a separate artistic direction sample. Rome and the 25-tour set are unfinished.
