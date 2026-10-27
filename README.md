@@ -1,21 +1,11 @@
 # Trips4Troops tour imagery
 
-## Christmas in Rome — revised banner direction
+## Christmas in Rome — new generated highlights
 
-**Style sample, not a final approved banner.** One continuous painterly composition evoking the tour, with no panels, inset photos or strips of highlights. The places are joined symbolically through light and atmosphere; this is not a literal geographic view.
+[View all six highlight images](tour-images/01_Christmas_in_Rome/highlights/README.md)
 
-![Christmas in Rome — artistic banner direction](tour-images/01_Christmas_in_Rome/banner/Rome_Banner.png)
+Generated in the warm golden, rich cinematic style of the original Rome banner. Each is a separate scene without panels or overlaid text. Naples, Pompeii, Capri and Sorrento are optional excursion destinations.
 
-[Open the full banner](tour-images/01_Christmas_in_Rome/banner/Rome_Banner.png) · [Creative direction](tour-images/CREATIVE_DIRECTION.md)
+[Image files](tour-images/01_Christmas_in_Rome/highlights) · [Manifest](tour-images/01_Christmas_in_Rome/manifest.json) · [Reference credits](tour-images/01_Christmas_in_Rome/highlights/CREDITS.md)
 
-## Highlights — a reason to picture yourself there
-
-The highlights are being revised around the guest’s experience. The Christmas image now shows a real festive scene among visitors; all six headlines and captions describe what the trip offers the traveller. The other five photo selections remain provisional. [View the highlight gallery](tour-images/01_Christmas_in_Rome/highlights/README.md). They belong separately in the program and summary, with [photo credits](tour-images/01_Christmas_in_Rome/highlights/CREDITS.md). Naples, Pompeii, Capri and Sorrento remain optional. Source photos represent their destinations; capture dates and seasons differ from the future December trip.
-
-The six daily AI images remain rejected and still need replacement.
-
-This sample still needs style feedback, landmark checks and crop refinement; Florence is near the right edge. Optional southern Italy destinations remain optional. No image depicts the actual future Christmas ceremony.
-
-[Manifest](tour-images/01_Christmas_in_Rome/manifest.json) · [Review notes](tour-images/01_Christmas_in_Rome/QA.md)
-
-Tours 2–25 imagery remains unstarted while Rome is refined.
+The banner and daily images remain separate work in progress. Tours 2–25 imagery has not started.

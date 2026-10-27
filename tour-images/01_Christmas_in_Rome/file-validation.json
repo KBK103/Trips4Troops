@@ -62,53 +62,52 @@
     },
     {
       "filename": "highlights/Rome_Highlight01_StPeters.png",
-      "width": 1920,
-      "height": 1440,
-      "bytes": 3163999,
-      "sha256": "9ad1f67456f6ed575e2e3d84ad3f8285816d726610e74d0263328733c34016bd",
-      "dhash": 8120714781220955730
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2781865,
+      "sha256": "a94024302d50e61884a26450289da815c038ea3f8e218beadc205d87efe04ac7",
+      "dhash": 3002154028922350076
     },
     {
       "filename": "highlights/Rome_Highlight02_Naples.png",
-      "width": 1920,
-      "height": 1280,
-      "bytes": 3917222,
-      "sha256": "262e9ba642d2c5b84fc0b2c748f2005e658510d412af80cbb638f8616a68c4d8",
-      "dhash": 2244502439008802313
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2981223,
+      "sha256": "7acfa01809020cf1f0519406e530b8c92f3b75fd047649470ceda88190860e66",
+      "dhash": 4325163278701172088
     },
     {
       "filename": "highlights/Rome_Highlight03_Pompeii.png",
-      "width": 1920,
-      "height": 1280,
-      "bytes": 4731457,
-      "sha256": "93df8253478eb1d0f98667d8e13179a4056e7a19267eeea91ad277462fd3aa32",
-      "dhash": 2637219739531866601
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3430771,
+      "sha256": "93a32d20a3b22584a5d0c9834f964eee283a60bc8a1484190e0dce5902995478",
+      "dhash": 8113447919500773809
     },
     {
       "filename": "highlights/Rome_Highlight04_Capri.png",
-      "width": 1920,
-      "height": 1284,
-      "bytes": 4963707,
-      "sha256": "39a49182073995b9ed626c1776b7aedcd36af4dbe0f69d6ce2915ee75c1d69a3",
-      "dhash": 7304958873543149760
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3343780,
+      "sha256": "89afb732072511e7a68c64b3e096ba3094bb595ca05135b9627f2cb83fc7c89b",
+      "dhash": 12882944110453379808
     },
     {
       "filename": "highlights/Rome_Highlight05_Sorrento.png",
-      "width": 1920,
-      "height": 1440,
-      "bytes": 5608458,
-      "sha256": "513aaaed7c4a79d067528c4225a55e368e965fc74260083676e5f07ab42a267c",
-      "dhash": 1914645723636171999
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3388312,
+      "sha256": "7dca2648a8a5330fd5fc8474427018ca7fa5cd8e3aa60f6c84f3e675c3a8dfdf",
+      "dhash": 2167968885730347588
     },
     {
       "filename": "highlights/Rome_Highlight06_Florence.png",
-      "width": 1920,
-      "height": 1306,
-      "bytes": 4513917,
-      "sha256": "5ad991800de9839eb85b44e2390830f37d78e4cb868db42588aac6dbe93e9e85",
-      "dhash": 16281907854765506800
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3012872,
+      "sha256": "b429f214aab16b7fb79a5ac4ef91603f502eb508a4e6041d6621c9f3476d7f14",
+      "dhash": 13374763955734248696
     }
   ],
-  "highlight_conversion_check": "All six PNGs match the decoded RGB pixels of their downloaded source JPEGs exactly.",
-  "limitations": "dHash checks coarse composition only; not a general proof of scene accuracy. Creative Commons attribution is required in website integration."
+  "limitations": "File integrity and coarse duplicate checks do not certify exact architecture. Generated highlights are illustrative, not documentation of future events."
 }

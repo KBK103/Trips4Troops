@@ -1,69 +1,45 @@
-# A Christmas away in Italy
+# Christmas in Rome — generated highlights
 
-Christmas in Rome, a walking tour of Florence, and the option to discover southern Italy along the way.
+Six separate images in the warm, cinematic style of the original Rome banner. No panels or text overlays.
 
-## Spend Christmas somewhere you’ll remember
+Naples, Pompeii, Capri and Sorrento represent the optional December 26 excursion.
 
-Rome · December 24–25
+## St. Peter’s at Christmas
 
-![Christmas-season visitors gathered beneath a lit tree in St. Peter’s Square.](Rome_Highlight01_StPeters.png)
+![St. Peter’s at Christmas](Rome_Highlight01_StPeters.png)
 
-Spend Christmas Eve and Christmas Day in Rome, with St. Peter’s Square at the heart of the holiday.
+[Open image](Rome_Highlight01_StPeters.png)
 
-Photo: Cruz.croce · [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) · [Source](https://commons.wikimedia.org/wiki/File:VatikanBor2024_(7).jpg)
+## Naples — optional
 
-## See another side of Italy in Naples
+![Naples](Rome_Highlight02_Naples.png)
 
-Optional excursion · December 26
+[Open image](Rome_Highlight02_Naples.png)
 
-![Castel dell’Ovo beside the water in Naples.](Rome_Highlight02_Naples.png)
+## Pompeii — optional
 
-Naples brings the sea into the journey: an open bay and a coastal setting that feels different from Rome.
+![Pompeii](Rome_Highlight03_Pompeii.png)
 
-Photo: Bernard Gagnon · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Castel_dell%27Ovo_(Naples)_02.jpg)
+[Open image](Rome_Highlight03_Pompeii.png)
 
-## Walk where another world once lived
+## Capri — optional
 
-Optional excursion · December 26
+![Capri](Rome_Highlight04_Capri.png)
 
-![An eye-level view along an ancient stone street in Pompeii.](Rome_Highlight03_Pompeii.png)
+[Open image](Rome_Highlight04_Capri.png)
 
-Explore Pompeii’s surviving streets and picture the people who once called them home.
+## Sorrento — optional
 
-Photo: Pudelek · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Pompeii_2021_-_03.jpg)
+![Sorrento](Rome_Highlight05_Sorrento.png)
 
-## Bring home a view of Capri
+[Open image](Rome_Highlight05_Sorrento.png)
 
-Optional excursion · December 26
+## Florence
 
-![Capri’s Faraglioni and blue Mediterranean water, viewed from the island.](Rome_Highlight04_Capri.png)
+![Florence](Rome_Highlight06_Florence.png)
 
-Sea cliffs rise above the Mediterranean—a striking change of scenery on the optional southern Italy excursion.
-
-Photo: Alessio Maffeis from Stockholm, Sweden · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Source](https://commons.wikimedia.org/wiki/File:Faraglioni_(52215154472).jpg)
-
-## Discover life by the water in Sorrento
-
-Optional excursion · December 26
-
-![Marina Grande’s waterside houses and fishing boats in Sorrento.](Rome_Highlight05_Sorrento.png)
-
-Colourful harbour houses and fishing boats bring another side of Italy into the holiday.
-
-Photo: Davidhermanns · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Marina_Grande,_Sorrento.jpg)
-
-## Discover Florence one street at a time
-
-Florence walking tour · December 27
-
-![Ponte Vecchio and its reflections on the Arno at blue hour.](Rome_Highlight06_Florence.png)
-
-Explore Florence on a guided walking tour, with the city unfolding at walking pace before the journey home.
-
-Photo: Commonists · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg)
+[Open image](Rome_Highlight06_Florence.png)
 
 ---
 
-[Photo credits and capture dates](CREDITS.md) · [Image review notes](../QA.md)
-
-This is an experience-direction study. The Christmas photo is a new candidate; the other five photographs are retained while their selection is reconsidered. Source photos show earlier visits and may show different seasons from the December 2026 tour.
+Generated artwork. [Reference credits and licenses](CREDITS.md).
